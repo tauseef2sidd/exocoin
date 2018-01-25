@@ -1,0 +1,9 @@
+Building Exocoin
+
+See doc/readme-qt.rst for instructions on building Exocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Exocoin.
+
+See doc/build-*.txt for instructions on building exocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Exocoin.
